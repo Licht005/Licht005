@@ -63,6 +63,9 @@ I'm a second-year B.Tech student in Robotics and Artificial Intelligence, passio
 
 - [🎙️ **Speech I/O (TTS & STT)**](https://github.com/licht005/Text-to-speech-and-Speech-to-text)  
   Demonstrates speech synthesis and recognition using gTTS and SpeechRecognition libraries.
+  
+-[📊 **Netflix Analysis**](https://github.com/Licht005/Netflix-Data-Analysis)
+Exploratory data analysis using statistical and visual methods to understand trends in Neflix data, drawing helping insights.
 
 ---
 
