@@ -9,7 +9,7 @@ I'm a second-year B.Tech student in Robotics and Artificial Intelligence, passio
 
 - 🔬 Currently focused on: **Deep Learning (PyTorch), AI agents, and LLM architectures**
 - 🛠 Built a real-time [Handwritten Digit Recognition App](https://github.com/licht005/digit_tracker_app) using OpenCV, PyTorch, and Mediapipe
-- 🌐 Deployed a [Diabetes Risk Predictor](https://github.com/licht005/diabetes-predictor-app) using Streamlit
+- 🌐 Deployed a [Pnuemonia Detector webapp](https://github.com/Licht005/pneumonia-xray-detector.git) using Streamlit
 - 🤖 Exploring brain-inspired AI and modular cognition frameworks
 - ✍️ Also a poet — my writing explores identity, silence, God, and fear
 - 📫 Reach me: **lucaskpatah8@gmail.com**
@@ -51,6 +51,10 @@ I'm a second-year B.Tech student in Robotics and Artificial Intelligence, passio
 
 - [🩺 **Diabetes Predictor App**](https://github.com/licht005/diabetes-predictor-app)  
   A lightweight Streamlit application that predicts diabetes risk based on medical metrics. Focuses on user experience and model explainability.
+  
+
+- [🩺 **Pnuemonia Prediction App**](https://github.com/licht005/diabetes-predictor-app)  
+  A lightweight Streamlit application that predicts pneumonia risk based on medical metrics extracted from chest x-ray images Focuses on user experience and simplicity,For educational purposes only. Used Pytorch, Resnet , streamlit etc
 
 - [🎬 **Movie Revenue Prediction**](https://github.com/licht005/Movie-Revenue-Prediction)  
   Machine learning regression project to forecast box office returns based on production and release features.
@@ -79,7 +83,7 @@ Exploratory data analysis using statistical and visual methods to understand tre
 
 ### 🌐 Let’s Connect
 
-- 🔗 LinkedIn: *[Coming Soon]*
+- 🔗 LinkedIn: *[ https://www.linkedin.com/in/lucas-kpatah-351086376?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]*
 - 🧠 Always open to collaboration in ML, deep learning, or interdisciplinary projects (AI + creativity)
 - 📜 Portfolio/Blog: *[Coming Soon]*
 
