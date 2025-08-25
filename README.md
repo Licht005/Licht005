@@ -83,7 +83,7 @@ Exploratory data analysis using statistical and visual methods to understand tre
 
 ### 🌐 Let’s Connect
 
-- 🔗 LinkedIn: *[ https://www.linkedin.com/in/lucas-kpatah-351086376?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]*
+- 🔗 LinkedIn: *[https://www.linkedin.com/in/lucas-kpatah-351086376]*
 - 🧠 Always open to collaboration in ML, deep learning, or interdisciplinary projects (AI + creativity)
 - 📜 Portfolio/Blog: *[Coming Soon]*
 
