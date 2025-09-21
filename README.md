@@ -44,34 +44,7 @@ I'm a second-year B.Tech student in Robotics and Artificial Intelligence, passio
 
 ---
 
-### 📌 Featured Projects
 
-- [🖐️ **Real-time Digit Tracker App**](https://github.com/licht005/digit_tracker_app)  
-  Uses OpenCV, Mediapipe, and a trained PyTorch model to recognize handwritten digits in real-time using finger tracking.
-
-- [🩺 **Diabetes Predictor App**](https://github.com/licht005/diabetes-predictor-app)  
-  A lightweight Streamlit application that predicts diabetes risk based on medical metrics. Focuses on user experience and model explainability.
-  
-
-- [🩺 **Pnuemonia Prediction App**](https://github.com/licht005/diabetes-predictor-app)  
-  A lightweight Streamlit application that predicts pneumonia risk based on medical metrics extracted from chest x-ray images Focuses on user experience and simplicity,For educational purposes only. Used Pytorch, Resnet , streamlit etc
-
-- [🎬 **Movie Revenue Prediction**](https://github.com/licht005/Movie-Revenue-Prediction)  
-  Machine learning regression project to forecast box office returns based on production and release features.
-
-- [🧠 **Titanic Survival Prediction**](https://github.com/licht005/Titanic-Survival-Prediction)  
-  Entry-level classification project exploring model performance across logistic regression, decision trees, and feature engineering.
-
-- [📊 **COVID-19 EDA**](https://github.com/licht005/Covid19-EDA)  
-  Exploratory data analysis using statistical and visual methods to understand trends in COVID-19 data.
-
-- [🎙️ **Speech I/O (TTS & STT)**](https://github.com/licht005/Text-to-speech-and-Speech-to-text)  
-  Demonstrates speech synthesis and recognition using gTTS and SpeechRecognition libraries.
-  
-- [📊 **Netflix Analysis**](https://github.com/Licht005/Netflix-Data-Analysis)
-Exploratory data analysis using statistical and visual methods to understand trends in Neflix data, drawing helping insights.
-
----
 
 ### 📈 GitHub Stats
 
