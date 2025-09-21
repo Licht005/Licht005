@@ -49,9 +49,8 @@ I'm a second-year B.Tech student in Robotics and Artificial Intelligence, passio
 ### 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Licht005&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Licht005&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
-
 ---
 
 ### 🌐 Let’s Connect
