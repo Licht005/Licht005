@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Lucas 👋</h1>
-<h3 align="center">Robotics & AI Student | Machine Learning Developer | Poet & Systems Thinker</h3>
+<h3 align="center">Robotics & AI Student | AI/Machine Learning | LLM | NLP | Poet & Systems Thinker</h3>
 
 ---
 
@@ -10,7 +10,7 @@ I'm a second-year B.Tech student in Robotics and Artificial Intelligence, passio
 - 🔬 Currently focused on: **Deep Learning (PyTorch), AI agents, and LLM architectures**
 - 🛠 Built a real-time [Handwritten Digit Recognition App](https://github.com/licht005/digit_tracker_app) using OpenCV, PyTorch, and Mediapipe
 - 🌐 Deployed a [Pnuemonia Detector webapp](https://github.com/Licht005/pneumonia-xray-detector.git) using Streamlit
-- 🤖 Exploring brain-inspired AI and modular cognition frameworks
+- NLP interest
 - ✍️ Also a poet — my writing explores identity, silence, God, and fear
 - 📫 Reach me: **lucaskpatah8@gmail.com**
 
