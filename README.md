@@ -24,23 +24,31 @@ I'm a second-year B.Tech student in Robotics and Artificial Intelligence, passio
 
 **ML & Deep Learning**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-333?style=flat&logo=pytorch&logoColor=orange)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-333?style=flat&logo=scikit-learn)
 ![NumPy](https://img.shields.io/badge/NumPy-333?style=flat&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-333?style=flat&logo=pandas)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-333?style=flat&logo=scikit-learn)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-333?style=flat&logo=matplotlib)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-333?style=flat&logo=googlecolab&logoColor=orange)
 
-**App & Visualization Tools**  
-![Streamlit](https://img.shields.io/badge/Streamlit-333?style=flat&logo=streamlit)
+**NLP & Computer Vision**  
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-333?style=flat&logo=huggingface&logoColor=yellow)
+![Transformers](https://img.shields.io/badge/Transformers-333?style=flat&logo=transformers&logoColor=lightblue)
+![LLMs](https://img.shields.io/badge/Large%20Language%20Models-333?style=flat&logo=openai&logoColor=white)
+![Sentiment Analysis](https://img.shields.io/badge/Sentiment%20Analysis-333?style=flat&logo=fastapi&logoColor=green)
+![Text Classification](https://img.shields.io/badge/Text%20Classification-333?style=flat&logo=openai&logoColor=blue)
 ![OpenCV](https://img.shields.io/badge/OpenCV-333?style=flat&logo=opencv&logoColor=white)
 ![Mediapipe](https://img.shields.io/badge/Mediapipe-333?style=flat&logo=google)
+
+**App & Deployment Tools**  
+![Streamlit](https://img.shields.io/badge/Streamlit-333?style=flat&logo=streamlit)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-333?style=flat&logo=googlecolab&logoColor=orange)
+![Jupyter](https://img.shields.io/badge/Jupyter-333?style=flat&logo=jupyter)
 
 **Tools & Platforms**  
 ![VS Code](https://img.shields.io/badge/VS%20Code-333?style=flat&logo=visualstudiocode&logoColor=blue)
 ![Git](https://img.shields.io/badge/Git-333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-333?style=flat&logo=github)
-![Jupyter](https://img.shields.io/badge/Jupyter-333?style=flat&logo=jupyter)
 ![MySQL](https://img.shields.io/badge/MySQL-333?style=flat&logo=mysql&logoColor=white)
+
 
 ---
 
