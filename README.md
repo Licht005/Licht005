@@ -49,7 +49,7 @@ I'm a second-year B.Tech student in Robotics and Artificial Intelligence, passio
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Licht005&show_icons=true&theme=gruvbox" alt="Lucas's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Licht005&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
