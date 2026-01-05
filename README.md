@@ -25,6 +25,6 @@ I am currently immersed in the full spectrum of Artificial Intelligence. Rather 
 
 ### 📫 Let's Connect
 * **Email:** lucaskpatah8@gmail.com
-* **Thinking:** [LinkedIn](https://linkedin.com/in/YOUR_LINK)
+* **Thinking:** [LinkedIn](https://www.linkedin.com/in/lucas-kpatah-351086376/)
 
 *"Where the code ends, the inquiry begins."*
