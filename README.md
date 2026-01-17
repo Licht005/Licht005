@@ -1,6 +1,6 @@
 # Lucas Kpatah
 
-### **Robotics & AI Student | Research | Poet**
+### **AI Student | Research | Poet**
 *Exploring the interface between machine intelligence and human experience.*
 
 ---
