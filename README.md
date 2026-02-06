@@ -22,5 +22,5 @@ Ultimately, I hope to gain the knowledge and experience needed to contribute to 
 
 ### 📫 Let's Connect
 * **Email:** lucaskpatah8@gmail.com
-* **Thinking:** [LinkedIn](https://www.linkedin.com/in/lucas-kpatah-351086376/)
+* **Linkedin:** [LinkedIn](https://www.linkedin.com/in/lucas-kpatah-351086376/)
 
