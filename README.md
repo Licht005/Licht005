@@ -1,14 +1,24 @@
-Hey there, Lucas here
-An aspiring AI research scientist and Machine learning Engineer.
-I am an AI & Robotics Student with strong interest in multimodality , system autonomy and reasoning, AI for healthcare, production and AGI interest. My work revolves around exploring algorithms for better understanding, low level resource optimization , AI architecture design an classical machine learning.
-I hope to gain the knowledge to contribute to AGI/Superintelligence and World Models
+## Hey there, Lucas here 👋
 
-Current Interests
-•	Multimodal learning (vision + structured data)
-•	Transformer internals and representation learning
-•	Interpretability and robustness in medical AI
-•	Brain modeling and disease-to-healthy state simulation
-•	Research-oriented ML system design
+An aspiring **AI Research Scientist** and **Machine Learning Engineer**.
+
+I am an AI & Robotics student with strong interests in multimodality, system autonomy and reasoning, AI for healthcare, production-grade AI, and long-term AGI research.
+
+My work focuses on exploring algorithms for **representation learning and understanding**, **low-level resource optimization**, **AI architecture design**, and **classical machine learning**.  
+I aim to build systems that are both theoretically grounded and practically useful.
+
+Ultimately, I hope to gain the knowledge and experience needed to contribute to **AGI, superintelligence**, and **world models**.
+
+---
+
+## Current Interests
+
+- Multimodal learning (vision + structured data)
+- Transformer internals and representation learning
+- Interpretability and robustness in medical AI
+- Brain modeling and disease-to-healthy state simulation
+- Research-oriented ML system design
+
 
 ### 📫 Let's Connect
 * **Email:** lucaskpatah8@gmail.com
