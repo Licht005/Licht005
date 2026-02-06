@@ -1,8 +1,4 @@
-# Lucas  Woedem Kpatah
-
-### AI Research Engineer | Student
-
----
+Hi
 
 ### 📫 Let's Connect
 * **Email:** lucaskpatah8@gmail.com
