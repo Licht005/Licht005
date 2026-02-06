@@ -1,7 +1,6 @@
-# Lucas Kpatah
+# Lucas  Woedem Kpatah
 
-### **AI Student | Research | Poet**
-*Exploring the interface between machine intelligence and human experience.*
+### **AI RESEARCH ENGINEER | STUDENT**
 
 ---
 
