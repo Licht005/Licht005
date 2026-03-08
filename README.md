@@ -24,4 +24,4 @@ Ultimately, I hope to gain the knowledge and experience needed to contribute to 
 * **Email:** lucaskpatah8@gmail.com
 * **Linkedin:** [LinkedIn](https://www.linkedin.com/in/lucas-kpatah-351086376/)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=licht005)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=licht005&theme=dark" alt="GitHub Streak" /></a>
