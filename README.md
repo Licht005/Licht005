@@ -13,10 +13,10 @@ Ultimately, I hope to gain the knowledge and experience needed to contribute to 
 
 ## Current Interests
 
-- Multimodal learning (vision + structured data etc).
-- Transformer internals and representation learning.
-- Interpretability and robustness in medical AI.
-- Brain modeling and disease-to-healthy state simulation.
+- Multimodal learning (vision + structured data etc)
+- Transformer internals and representation learning
+- Interpretability and robustness in medical AI
+- Brain modeling and disease-to-healthy state simulation
 - Research-oriented ML system design.
 
 
