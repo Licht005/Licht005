@@ -11,7 +11,7 @@ Ultimately, I hope to gain the knowledge and experience needed to contribute to 
 
 ---
 
-## Current Interests
+## My Current Interests
 
 - Multimodal learning (vision + structured data etc).
 - Transformer internals and representation learning.
