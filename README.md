@@ -15,6 +15,7 @@ Ultimately, I hope to gain the knowledge and experience needed to contribute to 
 
 - Multimodal learning (vision + structured data etc).
 - Transformer internals and representation learning.
+- NLP or language models and adaptation
 - Interpretability and robustness in medical AI.
 - Brain modeling and disease-to-healthy state simulation.
 - Research-oriented ML system design.
