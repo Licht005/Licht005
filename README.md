@@ -2,7 +2,7 @@
 
 An aspiring **AI Research Scientist** and a **Machine Learning Engineer**.
 
-I am an AI Research & Robotics student with strong interests in multimodality, language models, system autonomy and reasoning, AI for healthcare, production-grade AI, and long-term AGI research.
+I am an AI Research & Robotics student with strong interests in multimodality, language models, system autonomy and reasoning, AI for healthcare, production-grade AI, and long-term research.
 
 My work focuses on exploring algorithms for **representation learning and understanding**, **low-level resource optimization**, **AI architecture design**, and **classical machine learning**.  
 I aim to build systems that are both theoretically grounded and practically useful.
