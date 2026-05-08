@@ -10,6 +10,7 @@ I aim to build systems that are both theoretically grounded and practically usef
 Ultimately, I hope to gain the knowledge and experience needed to contribute to **AGI, superintelligence**, and **world models**.
 
 ---
+Co-authored the research paper, **Nsanku: Evaluating Zero shot Performance of LLMs for Ghanaian Languages** here: https://arxiv.org/abs/2605.04208
 
 ## My Current Interests
 
