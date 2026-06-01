@@ -12,6 +12,9 @@ Ultimately, I hope to gain the knowledge and experience needed to contribute to 
 ---
 Co-authored the research paper, **Nsanku: Evaluating Zero shot Performance of LLMs for Ghanaian Languages** here: https://arxiv.org/abs/2605.04208
 
+### Recommendations
+- https://www.linkedin.com/recs/received/?senderId=mich-seth-owusu
+
 ## My Current Interests
 
 - Multimodal learning (vision + structured data etc).
