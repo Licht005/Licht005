@@ -14,6 +14,7 @@ Co-authored the research paper, **Nsanku: Evaluating Zero shot Performance of LL
 
 ### Recommendations
 - https://www.linkedin.com/recs/received/?senderId=mich-seth-owusu
+- https://www.linkedin.com/recs/received/?senderId=justice-williams-asare-phd-5307a011b
 
 ## My Current Interests
 
